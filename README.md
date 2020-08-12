@@ -20,5 +20,5 @@ The working directory for this assignment is the UCI HAR Dataset folder. Dplyr p
 
 Analysis would read all test and train data, thus merging them. Each Variable were named as per the features based on the feature.txt file.
 
-Using the merged data, idependent tidy data set with average of each variable, each activity and each subject is written into tidydata.txt
+Using the merged data, idependent tidy data set with average of each variable, each activity and each subject is written into tidy.txt
 
