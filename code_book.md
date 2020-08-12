@@ -1,5 +1,5 @@
 ## Intro
-The following are the variables descriptions and ad processing varaibles
+The following are the variables descriptions and processing varaibles
 
 ## Variables Description
 Data read from project data files. For description of each data files, refer to README in the project folder.
