@@ -8,9 +8,13 @@ Data source is the same as the in the assigment brief.
 The working directory for this assignment is the UCI HAR Dataset folder. Dplyr package was required to run this script.
 
 1.Merge data - training and test data to create as one data set
-2. Extract only measurment on mean and standard deviation for each measurment
+
+2. Extract only measurment on mean and standard deviation for each measurment.
+
 3.Using activity name in the data set
+
 4.Appropriately labels the data set with descriptive variable names.
+
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 
