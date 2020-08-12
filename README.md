@@ -1,5 +1,5 @@
 # Intro
-This is my Peer-Graded for Getting and Cleaning the data. 
+This is my Peer-Graded Assignment for Getting and Cleaning the data. 
 
 ## Data Source
 Data source is the same as the in the assigment brief.
